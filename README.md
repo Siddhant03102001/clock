@@ -50,4 +50,6 @@ Here are some ideas to get you started:
 <p align="center">
 I have created this simple project using HTML-5, CSS-3, and Javascript and Bootstrap. This project shows the time of different places in the world. The page also updates the time at every 10 seconds.
 <br>
+<br>
+<br>
 <img align="center" src="https://github.com/Siddhant-vardhansingh/clock/blob/master/img/Capture.PNG?raw=true">
